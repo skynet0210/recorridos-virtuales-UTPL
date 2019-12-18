@@ -6,4 +6,4 @@ Para ejecutar los proyectos de manera local se debe colocar las carpetas en el d
 para visualizar el proyecto realizado se puede acceder a http://recorridoutpl.000webhostapp.com/
 
 # nota
-Para visualizar correctamente el recorrido en un dispositivo movil se recomienda usar el navegador FIREFOX puesto que CHROME presenta problemas para trabajar con el giroscopio
+Para visualizar correctamente el recorrido se recomienda usar el navegador FIREFOX puesto que CHROME presenta problemas para trabajar con el giroscopio.
